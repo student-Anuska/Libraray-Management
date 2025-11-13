@@ -4,8 +4,11 @@ The Library Management System is a simple C program designed to manage basic lib
 It helps librarians or users keep track of available books and issued ones efficiently using simple file handling and structured programming in C.
 
 Features
+br
 ➕ Add new books to the library
+br
 📖 Display all available books
+br
 🔍 Search for books by ID, title, or author
 📤 Issue and return books
 🗑️ Delete or update book records
