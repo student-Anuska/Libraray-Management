@@ -26,6 +26,7 @@ Concepts: Structures, Functions, Arrays, File Handling
 <br>
 IDE/Compiler: Any C compiler (Turbo C, GCC, Code::Blocks, etc.)
 <br>
+<br>
 How It Works
 <br>
 The program stores all book details such as Book ID, Title, Author, Quantity, and Status.
